@@ -1,0 +1,96 @@
+.tab .van-tab {
+    font-size: .37333rem;
+    color: #333;
+}
+
+.search .van-icon-search {
+    font-size: .45rem;
+    line-height: .74667rem;
+    color: #ccc;
+}
+
+.search .van-icon-close {
+    font-size: .3rem;
+    line-height: .5667rem;
+    color: #ccc;
+}
+
+.search .van-field__control {
+    font-size: .37333rem;
+    border: none;
+    color: #333;
+    line-height: .37333rem;
+    margin-top: .15rem;
+}
+
+.van-field__button {
+    vertical-align: middle;
+}
+
+.gird .van-icon__image {
+    width: 1.46667rem;
+    height: 1.46667rem;
+}
+
+.gird .van-grid-item__text {
+    font-size: .32rem;
+}
+
+.footer .van-tabbar-item__text {
+    font-size: .32rem;
+}
+
+.footer .van-hairline--top-bottom {
+    height: 1.30667rem;
+}
+
+.footer .van-tabbar-item__icon {
+    font-size: .5333rem;
+}
+
+.slide .van-sidebar-item__text {
+    font-size: .3733rem;
+    line-height: .6667rem;
+    color: #333;
+}
+
+.sku .van-sku__price-symbol,
+.sku .van-sku__stock,
+.sku .van-sku-header-item,
+.sku .van-sku__price-num,
+.sku .van-sku-row__title,
+.sku .van-multi-ellipsis--l2,
+.sku .van-sku-row__image-item-name,
+.sku .van-sku-stepper-stock,
+.sku .van-cell--required,
+.sku .van-stepper__input,
+.sku .van-button {
+    font-size: .3733rem;
+}
+
+.sku .van-stepper__minus,
+.sku .van-stepper__input,
+.sku .van-stepper__plus {
+    width: .6rem;
+    height: .6rem;
+}
+
+.sku .van-button {
+    height: 1.28rem;
+    line-height: 1.28rem;
+}
+
+.banner .van-swipe__indicator {
+    width: .2rem;
+    height: .2rem;
+    background-color: #000;
+}
+
+.m-swiper .van-swipe__indicator {
+    width: .5rem;
+    height: .1rem;
+    background-color: #000;
+    border-radius: 0;
+    border: 1px solid #ccc;
+    margin-right: 0
+}
